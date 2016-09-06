@@ -716,7 +716,7 @@ char od3[20] = "od+3";
 if(strcmp(od3,mod1)==0){
         printf("81\n");}
 
-char od4[20] = "od+3";
+char od4[20] = "od+4";
 
 if(strcmp(od4,mod1)==0){
         printf("82\n");}
@@ -1055,7 +1055,7 @@ if(strcmp(sc1,mod1)==0){
 
 char kr1[20] = "kr+1";
 
-if(strcmp(sc1,mod1)==0){
+if(strcmp(kr1,mod1)==0){
         printf("C0\n");}
 
 //Auto-erotic Asphixiation
