@@ -6,7 +6,7 @@ printf("Welcome to mod2hex, a free program poorly written by the guy who ruined 
 char mod1[20];
 char exit[20] = "exit";
 
-printf("\nInsert a mod or star amount to convert, or exit to close mod2hex.\n");
+printf("\nInsert a modifier or star amount to convert, or exit to close mod2hex.\n");
 
 begin:
 scanf("%s", mod1);
