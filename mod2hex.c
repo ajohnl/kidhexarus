@@ -6,7 +6,7 @@ printf("Welcome to mod2hex, a free program poorly written by the guy who ruined 
 char mod1[20];
 char exit[20] = "exit";
 
-printf("Insert a mod or star amount to convert, or exit to close mod2hex\n");
+printf("\nInsert a mod or star amount to convert, or exit to close mod2hex.\n");
 
 begin:
 scanf("%s", mod1);
@@ -28,7 +28,7 @@ if(strcmp(senpai,mod1)==0){
 	char name[20];
 	printf("State thine name\n");
 	scanf("%s", name);
-	printf("Viridifan has noticed %s \n",name);
+	printf("Viridifan has noticed %s. \n",name);
 }
 
 char scs2[20] = "scs+2";
