@@ -5,10 +5,10 @@ Simple tool to convert modifiers and stars to their respective hex values. Most 
 
 
 Some rather exceptional mods:
-Paralysis-------para
-Petrification---petri
-Walking Speed---walkspeed
-Running Speed---runspeed
+Paralysis:para
+Petrification:petri
+Walking Speed:walkspeed
+Running Speed:runspeed
 
 If you don't know any abreviations, feel free to look at the code, it should be simple enough to understand.
 
