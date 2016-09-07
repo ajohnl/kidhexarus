@@ -1363,7 +1363,7 @@ if(strcmp(neg10m,mod1)==0){
 char neg15m[20] = "-1.5m";
 
 if(strcmp(neg15m,mod1)==0){
-        printf("0F\n");}
+        printf("1F\n");}
 
 char zeror[20] = "0r";
 if(strcmp(zeror,mod1)==0){
