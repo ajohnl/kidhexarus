@@ -209,7 +209,7 @@ char dcfneg1[20] = "dcf-1";
 if(strcmp(dcfneg1,mod1)==0){
         printf("23\n");}
 
-char dcfneg2[20] = "dcf-21";
+char dcfneg2[20] = "dcf-2";
 
 if(strcmp(dcfneg2,mod1)==0){
         printf("24\n");}
@@ -524,7 +524,7 @@ char walkspeed3[20] = "walkspeed+3";
 if(strcmp(walkspeed3,mod1)==0){
         printf("5D\n");}
 
-char walkspeed4[20] = "walk speed+4";
+char walkspeed4[20] = "walkspeed+4";
 
 if(strcmp(walkspeed4,mod1)==0){
         printf("5E\n");}
@@ -659,42 +659,42 @@ if(strcmp(kd4,mod1)==0){
 
 //Status resistance
 
-char statres1[20] = "status resistance+1";
+char statres1[20] = "status_resistance+1";
 
 if(strcmp(statres1,mod1)==0){
         printf("77\n");}
 
-char statres2[20] = "status resistance+2";
+char statres2[20] = "status_resistance+2";
 
 if(strcmp(statres2,mod1)==0){
         printf("78\n");}
 
-char statres3[20] = "status resistance+3";
+char statres3[20] = "status_resistance+3";
 
 if(strcmp(statres3,mod1)==0){
         printf("79\n");}
 
-char statres4[20] = "status resistance+4";
+char statres4[20] = "status_resistance+4";
 
 if(strcmp(statres4,mod1)==0){
         printf("7A\n");}
 
-char statresneg1[20] = "status resistance-1";
+char statresneg1[20] = "status_resistance-1";
 
 if(strcmp(statresneg1,mod1)==0){
         printf("7B\n");}
 
-char statresneg2[20] = "status resistance-2";
+char statresneg2[20] = "status_resistance-2";
 
 if(strcmp(statresneg2,mod1)==0){
         printf("7C\n");}
 
-char statresneg3[20] = "status resistance-3";
+char statresneg3[20] = "status_resistance-3";
 
 if(strcmp(statresneg3,mod1)==0){
         printf("7D\n");}
 
-char statresneg4[20] = "status resistance-4";
+char statresneg4[20] = "status_resistance-4";
 
 if(strcmp(statresneg4,mod1)==0){
         printf("7E\n");}
