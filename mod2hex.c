@@ -509,42 +509,42 @@ char speedneg4[20] = "speed-4";
 if(strcmp(speedneg4,mod1)==0){
         printf("5A\n");}
 
-char walkspeed1[20] = "walkspeed+1";
+char walkspeed1[20] = "ws+1";
 
 if(strcmp(walkspeed1,mod1)==0){
         printf("5B\n");}
 
-char walkspeed2[20] = "walkspeed+2";
+char walkspeed2[20] = "ws+2";
 
 if(strcmp(walkspeed2,mod1)==0){
         printf("5C\n");}
 
-char walkspeed3[20] = "walkspeed+3";
+char walkspeed3[20] = "ws+3";
 
 if(strcmp(walkspeed3,mod1)==0){
         printf("5D\n");}
 
-char walkspeed4[20] = "walkspeed+4";
+char walkspeed4[20] = "ws+4";
 
 if(strcmp(walkspeed4,mod1)==0){
         printf("5E\n");}
 
-char runspeed1[20] = "runspeed+1";
+char runspeed1[20] = "rs+1";
 
 if(strcmp(runspeed1,mod1)==0){
         printf("5F\n");}
 
-char runspeed2[20] = "runspeed+2";
+char runspeed2[20] = "rs+2";
 
 if(strcmp(runspeed2,mod1)==0){
         printf("60\n");}
 
-char runspeed3[20] = "runspeed+3";
+char runspeed3[20] = "rs+3";
 
 if(strcmp(runspeed3,mod1)==0){
         printf("61\n");}
 
-char runspeed4[20] = "runspeed+4";
+char runspeed4[20] = "rs+4";
 
 if(strcmp(runspeed4,mod1)==0){
         printf("62\n");}
@@ -659,42 +659,42 @@ if(strcmp(kd4,mod1)==0){
 
 //Status resistance
 
-char statres1[20] = "status_resistance+1";
+char statres1[20] = "stat+1";
 
 if(strcmp(statres1,mod1)==0){
         printf("77\n");}
 
-char statres2[20] = "status_resistance+2";
+char statres2[20] = "stat+2";
 
 if(strcmp(statres2,mod1)==0){
         printf("78\n");}
 
-char statres3[20] = "status_resistance+3";
+char statres3[20] = "stat+3";
 
 if(strcmp(statres3,mod1)==0){
         printf("79\n");}
 
-char statres4[20] = "status_resistance+4";
+char statres4[20] = "stat+4";
 
 if(strcmp(statres4,mod1)==0){
         printf("7A\n");}
 
-char statresneg1[20] = "status_resistance-1";
+char statresneg1[20] = "stat-1";
 
 if(strcmp(statresneg1,mod1)==0){
         printf("7B\n");}
 
-char statresneg2[20] = "status_resistance-2";
+char statresneg2[20] = "stat-2";
 
 if(strcmp(statresneg2,mod1)==0){
         printf("7C\n");}
 
-char statresneg3[20] = "status_resistance-3";
+char statresneg3[20] = "stat-3";
 
 if(strcmp(statresneg3,mod1)==0){
         printf("7D\n");}
 
-char statresneg4[20] = "status_resistance-4";
+char statresneg4[20] = "stat-4";
 
 if(strcmp(statresneg4,mod1)==0){
         printf("7E\n");}
