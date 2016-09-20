@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-printf("Welcome to mod2hex, a free program poorly written by the guy who ruined Miiverse.\nAfter getting your result you may input again.\n");
+printf("Welcome to kid hexarus, a free program poorly written by the guy who ruined Miiverse.\nAfter getting your result you may input again.\n");
 char mod1[20];
 char exit[20] = "exit";
 
@@ -13,7 +13,7 @@ scanf("%s", mod1);
 
 if(strcmp(mod1,exit)==0){
 
-	printf("Thank you for using mod2hex!\nPress enter to leave for good.\n");
+	printf("Thank you for using kid hexarus!\nPress enter to leave for good.\n");
 	getchar();
 	getchar();
 	return 0;}
