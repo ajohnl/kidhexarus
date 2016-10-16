@@ -19,5 +19,5 @@ Running Speed:rs
 Status resistance:stat
 
 
-
-
+Screenshot:
+[screenshot](pics/screenshot.png)
