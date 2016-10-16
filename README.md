@@ -1,6 +1,12 @@
 # kidhexarus
 
-Simple tool to convert modifiers and stars to their respective hex values. Most of the inputs have to be abreviations, such as dcs+1, scs+3, ipab-3. Mods that only have one word in them must be written as they are (except for paralysis and petrification, para and petri, respectively. The input must be one word, no spaces between the +/- and the mod/number.
+Converts your desired stars and mods into a string of hex code you can paste behind your weapon ID when editing weapons, also useful for finding weapons in your save files, simply input the mods of the weapon and paste the output in you hex editor's search tool.
+
+
+
+
+
+Most of the inputs have to be abreviations, such as dcs+1, scs+3, ipab-3. Mods that only have one word in them must be written as they are (except for paralysis and petrification, para and petri, respectively. The input must be one word, no spaces between the +/- and the mod/number.
 
 
 
@@ -12,13 +18,6 @@ Walking Speed:ws
 Running Speed:rs
 Status resistance:stat
 
-If you don't know any abreviations, feel free to look at the code, it should be simple enough to understand.
 
-//Backward-dash ch. shot
 
-char bdcs1[20] = "bdcs+1";
 
-if(strcmp(bdcs1,mod1)==0){
-        printf("15\n");}
-
-In the above fragment of code, the full name of the modifier is commented out, and bellow it is the code for the different inputs/respones. The first line contains the input inside the "quotes".
