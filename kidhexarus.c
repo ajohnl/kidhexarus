@@ -1405,7 +1405,7 @@ mod2hex();
 strcpy(hex5,hex);
 mod2hex();
 strcpy(hex6,hex);
-printf("The final hex value for your weapon's mods is: \n%s%s00000000000000000000%s00%s00%s00%s00%s00%s \n",rshex,mshex,hex1,hex2,hex3,hex4,hex5,hex6);
+printf("The final hex value for your weapon's mods is: \n%s00%s00000000000000000000%s00%s00%s00%s00%s00%s \n",rshex,mshex,hex1,hex2,hex3,hex4,hex5,hex6);
 char answeroo;
 switcheroo:
 printf("Repeat? (y/n)\n");
